@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-webrick:
-  headers:
-    My-Header: Dream4Tech
+url: lab.dream4tech.io
+title: Dream4Tech
+description: Site for Tech Lovers
